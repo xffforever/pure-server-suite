@@ -1,3 +1,14 @@
+.idea
+.settings
+target
+.classpath
+.project
+bin
+*.iml
+*.ipr
+*.iws
+.metadata
+
 *.class
 
 # Mobile Tools for Java (J2ME)
