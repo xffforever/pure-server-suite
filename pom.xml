@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.pureserver</groupId>
+    <artifactId>pure-server-suite</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>pure-server-suite</name>
+    <description>
+        The Pure Server Suite.
+    </description>
+    <url>http://maven.apache.org</url>
+
+    <properties>
+
+    </properties>
+
+    <developers>
+        <developer>
+            <name>Kevin Lee</name>
+            <email>xffforever@gmail.com</email>
+            <timezone>America/Los_Angeles</timezone>
+            <roles>
+                <role>architect</role>
+                <role>committer</role>
+            </roles>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>Apache License 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <issueManagement>
+        <system>github</system>
+        <url>https://github.com/xffforever/pure-server-suite/issues#issue/</url>
+    </issueManagement>
+
+    <dependencyManagement>
+
+    </dependencyManagement>
+
+    <dependencies>
+
+    </dependencies>
+
+    <build>
+        
+    </build>
+</project>
