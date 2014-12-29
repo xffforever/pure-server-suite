@@ -20,6 +20,7 @@
         <module>dal</module>
         <module>detour</module>
         <module>example</module>
+        <module>appinternals</module>
     </modules>
 
     <properties>
